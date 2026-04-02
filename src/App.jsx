@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <h1>Hello World!</h1>
-      <p>Change for triggering CI/CD</p>
+      {/* <p>Change for triggering CI/CD</p> */}
     </>
   )
 }

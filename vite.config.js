@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base:'/githubactiondeploy02Apr25/'
+  base:'/githubactiondeploy02Apr26/'
 })
